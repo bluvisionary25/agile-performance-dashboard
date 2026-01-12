@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Liderança de Squad](https://img.shields.io/badge/Liderança-Squad-0d6efd)
+![Gestão de Projetos](https://img.shields.io/badge/Gestão-de%20Projetos-198754)
+![Gestão de Backlog](https://img.shields.io/badge/Gestão-de%20Backlog-f39c12)
+![Cerimônias SCRUM](https://img.shields.io/badge/Cerimônias-SCRUM-6f42c1)
+
 # Squad Delivery Panel | Gestão Ágil e Performance
 
 ## 📊 Demonstração do Projeto
